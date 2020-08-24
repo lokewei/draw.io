@@ -1,1 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2020-08-24T08:45:21.337Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="SyRS3prNlycWySaMc3xL" version="13.6.4" type="github"><diagram id="O9Qoa6WuMocF9DDMCrZD" name="Page-1">3VrbkqM2EP0aVc0+jIu74RFsnGxqk5pkHjKblxQ2MiaLEQH5tl+/LSHAGHnM7np8maqpKal1QerTfbppjPTRcvtLHmSL30mIE6Qp4RbpY6RpjmHBfybYlQLTNEtBlMdhKVIbwXP8FQuhIqSrOMRFayIlJKFx1hbOSJriGW3Jgjwnm/a0OUnaT82CCHcEz7Mg6Ur/jkO6KKW2Nmzkv+I4WlRPVi2nHFkG1WRxk2IRhGSzJ9J9pI9yQmjZWm5HOGG6q/RSrpscGa0PluOU9lkwD/98erF/w7r1kvwTeM7LXxF+FGCsg2QlLox8E9lDZFus4Rqs7VvI1ZGtsIYHo564EN1VWsIhKE10SU4XJCJpkPiN1MvJKg0xO4oCvWbOJ0IyEKog/A9TuhMWEKwoAdGCLhMxCrfMdy9iPe98Zp2BWXXH2/3B8U70yrOyAx7VmxAVZJXP8CvK0oX9BXmE6SvzjBpd8ApMlhjOA+tynAQ0XrfPEQj7jOp5DYTQECh+B6J6F9FDtDISpxTn/ho0UAj11tbJdBYGxaLGag+DgubkCx6RhOQgSUnKkJ3HSVKJkKYbumEYDJSgyEqHnMdbtpmXBFOcPJEipjFJQT7D7BQwsMY5jcHlPh1MmBJKyXJvgpvEERugzGa8QPTqfciKJnEK56uoQCkvlrF7L7cRI6jBeh0ONnj675RxA18mFAbPwNvXbaSLqVhgCR/fVSwg+puGMhx7YApqWOwRxlB5IzsYnraDC3jtGb3P6Ol91jW9z5bwqcUY0xvxho9cU4oDt/227jr2fegGyzgMS5hwEX8Npnw/BhR3cH4100Pm+DUbF3FTLG6i1T5Cx+3rqEM8KgPVbPlERUy9cRB7P7G7dLepVpD5vABzOMStPtGPQ2lIoHSQ4yJ7wqB0RshzucRE3oQHyzFyIFgOkTtCLoRPA3k28rpu1zgVQ3mziCl+zgJu+xugKJkD/RQ5afYhO5kddlIr3Pe5yXorbqro8f2Qk9WTnJxrkpOqyrO9CXJU5Nsst/OGrAF8BTQFQ57DDJjlf2DSfI474XMgEVSRrT3gbQbkU3CHYIN2PfnD+6A5VZEjtsdzmvlzzPb2VGZJcLdZZu+6HGUIT+74j2dBa/aYW4XLETeR4yDX5o0J+2MNhc3RrAQU501zaEWUK7+UzAm/VoO89f+KVAOPBfdGFybY2bYZqzZ5wNEA2sGS8WA6LbK9jYssSKUbz8r0k22aR9MHxm8AG+hK0fS6qesfWJttp/CTzINlnOzKZfUjIYPVDWagOFljZoYwmGJQ2+GE9l4nblV6ySqdJmT2ZTCDpFZcCeAsb9VW4dGb9nnYhxObg7iEqBIf+OmJiNQOX2eIT8btxaceL1H3FZ+cnvFJ1a4ZoJyO2jkrAeN4yPF51HEZ+9yaxWrm1S1WUsi5b4tVtb4me9VyiyqLrScN9j5TIbN3KlS9rBm3nhlVVtYtgHquyI1dHUjoQZYW8xc81+1mutfmI925Nh/Vbn7ZGvE2prxEXFaFofdZbMbaTYGYdar6cF1XrovM/erKdY303LzXt86lHXkzuQzvaTLHsdgLAnMR/p7oykPQ3fHeCecD2rPN4a0TnSYpZ915gtDbUfSrJgiyOqLs5bv7Ps3cyEeewqeNWaFRFpp4HJrwl3UL2SrzvGvHo8OK4w3EI3nV/VLfLA9ii/ZdwUUe1aoReVQ7o59VON24n2nyIhd4hmM0Gfn7CEgnE3HDMOyWBz5qNx+gJN8ERHF6WFPcxycZ2x0S58PH5yf+HWaMbEdSh06SOCvwRb69qM5BpcDoyYT2mzHh8CpM+AOZ+Tk5rO9PN65LYfKvxw6wmM/t2eCh/2S4v09Se/2DsjLQ1arWcqYvyhfgNEkdmeVyPuc0IDdbZHf3kNQZzkC/WFYH3eaXcSUczc8Ldf8b</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-24T08:47:50.591Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="Dp_s3JuP3ETTJyoVORb2" version="13.6.4" type="github">
+  <diagram id="O9Qoa6WuMocF9DDMCrZD" name="Page-1">
+    <mxGraphModel dx="946" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fdQPX8Je36XlZaB9XRge-5" value="准备检测" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fdQPX8Je36XlZaB9XRge-3" target="fdQPX8Je36XlZaB9XRge-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdQPX8Je36XlZaB9XRge-3" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.web_browser;" parent="1" vertex="1">
+          <mxGeometry x="60" y="110" width="98.59" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fdQPX8Je36XlZaB9XRge-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fdQPX8Je36XlZaB9XRge-4" target="fdQPX8Je36XlZaB9XRge-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdQPX8Je36XlZaB9XRge-8" value="拼接" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fdQPX8Je36XlZaB9XRge-7" vertex="1" connectable="0">
+          <mxGeometry x="-0.15" y="-3" relative="1" as="geometry">
+            <mxPoint y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fdQPX8Je36XlZaB9XRge-4" value="随机长字符串" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="115" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fdQPX8Je36XlZaB9XRge-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fdQPX8Je36XlZaB9XRge-6" target="fdQPX8Je36XlZaB9XRge-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdQPX8Je36XlZaB9XRge-11" value="发起若干次请求(express是8次)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fdQPX8Je36XlZaB9XRge-10" vertex="1" connectable="0">
+          <mxGeometry x="-0.125" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fdQPX8Je36XlZaB9XRge-6" value="自建DNS服务器域名&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(eg.&amp;nbsp;&lt;span style=&quot;color: rgb(15 , 23 , 33) ; font-family: &amp;#34;helvetica neue&amp;#34; ; font-size: 8px&quot;&gt;xpressunblock.com&lt;/span&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;)&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="115" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fdQPX8Je36XlZaB9XRge-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fdQPX8Je36XlZaB9XRge-9" target="fdQPX8Je36XlZaB9XRge-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdQPX8Je36XlZaB9XRge-9" value="DNS回源" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fdQPX8Je36XlZaB9XRge-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fdQPX8Je36XlZaB9XRge-12" target="fdQPX8Je36XlZaB9XRge-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdQPX8Je36XlZaB9XRge-16" value="回源" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fdQPX8Je36XlZaB9XRge-15" vertex="1" connectable="0">
+          <mxGeometry x="-0.125" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fdQPX8Je36XlZaB9XRge-12" value="出口DNS(若干个)" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="395" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fdQPX8Je36XlZaB9XRge-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="fdQPX8Je36XlZaB9XRge-14" target="fdQPX8Je36XlZaB9XRge-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdQPX8Je36XlZaB9XRge-22" value="查询" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fdQPX8Je36XlZaB9XRge-21" vertex="1" connectable="0">
+          <mxGeometry x="0.1857" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fdQPX8Je36XlZaB9XRge-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fdQPX8Je36XlZaB9XRge-14" target="fdQPX8Je36XlZaB9XRge-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdQPX8Je36XlZaB9XRge-14" value="自建DNS&lt;br&gt;记录出口DNS信息" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="395" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fdQPX8Je36XlZaB9XRge-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fdQPX8Je36XlZaB9XRge-20" target="fdQPX8Je36XlZaB9XRge-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdQPX8Je36XlZaB9XRge-26" value="返回" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fdQPX8Je36XlZaB9XRge-25" vertex="1" connectable="0">
+          <mxGeometry x="-0.4448" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fdQPX8Je36XlZaB9XRge-20" value="受信IP信息&lt;br&gt;(ISP等)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="245" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fdQPX8Je36XlZaB9XRge-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="fdQPX8Je36XlZaB9XRge-23" target="fdQPX8Je36XlZaB9XRge-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdQPX8Je36XlZaB9XRge-28" value="显示信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fdQPX8Je36XlZaB9XRge-27" vertex="1" connectable="0">
+          <mxGeometry x="0.3116" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fdQPX8Je36XlZaB9XRge-23" value="得到出口DNS信息&lt;br&gt;这里根据随机字符串做匹配" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="49.3" y="395" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
